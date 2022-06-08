@@ -1,0 +1,126 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="KarlaPortafoilio.com" resolutions="1x" timestamp="1654660040616">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4002303829" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3939489907" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3936894949" ref="index"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="312044820" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="87988211_2590143491115078_8772765242347225088_n.jpg" crc="503056921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="drawkit vector illustration black friday - online shopping (5).png" crc="26370014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u823-8.png" crc="3846945834" ref="index"/>
+    <file name="2890568_ai_artificial intelligence_automaton_brain_electronics_icon.png" crc="484137977" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2317842_arrow_click_computer_cursor_hardware_icon.png" crc="4128838219" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mi_logo.png" crc="3935565625" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u166_states.png" crc="3990380129" ref="index"/>
+    <file name="u166_states-r.png" crc="3926521944" ref="index"/>
+    <file name="u295_states.png" crc="81341469" ref="index"/>
+    <file name="u295_states-r.png" crc="4228193069" ref="index"/>
+    <file name="u292_states.png" crc="4036553110" ref="index"/>
+    <file name="u292_states-r.png" crc="193628279" ref="index"/>
+    <file name="u458_states.png" crc="3879758046" ref="index"/>
+    <file name="u458_states-r.png" crc="60207196" ref="index"/>
+    <file name="u467_states.png" crc="4021254734" ref="index"/>
+    <file name="u467_states-r.png" crc="3857906375" ref="index"/>
+    <file name="u470_states.png" crc="3987436163" ref="index"/>
+    <file name="u470_states-r.png" crc="482093090" ref="index"/>
+    <file name="u171-5.png" crc="3998023827" ref="index"/>
+    <file name="u174-4.png" crc="4185485806" ref="index"/>
+    <file name="u177-4.png" crc="3828413162" ref="index"/>
+    <file name="drawkit vector illustration black friday - online shopping (9).png" crc="198179717" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u204-6.png" crc="3943004789" ref="index"/>
+    <file name="u208-8.png" crc="78092270" ref="index"/>
+    <file name="u646-11.png" crc="203060131" ref="index"/>
+    <file name="3401856_essential_reward_star_web_icon.png" crc="3962492108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4469567_adobe_indesign_logo_logos_icon.png" crc="199504764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4373282_adobe_logo_logos_photoshop_icon.png" crc="279221122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4373065_adobe_logo_logos_premier_pro_icon.png" crc="201852257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="autodesk-maya-icon.png" crc="4291978966" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4373067_adobe_ai_illustrator_logo_logos_icon.png" crc="419453250" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="4373294_adobe_logo_logos_muse_icon.png" crc="424924425" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1165-5.png" crc="19687606" ref="index"/>
+    <file name="editorial_1.jpg" crc="4189034101" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="editorial_2.jpg" crc="4281736266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="modelado.jpg" crc="108019428" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="modelado_body-crop-u1035.jpg" crc="3822305483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unity-modelado_2.jpg" crc="223248705" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cartel 3.jpg" crc="408374647" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sketch_cartel_2.jpg" crc="4071234535" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unity-modelado-crop-u1139.jpg" crc="4100076921" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u747-4.png" crc="377492871" ref="index"/>
+    <file name="modelado481x292.jpg" crc="3773173589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unity-modelado_2334x161.jpg" crc="4174572230" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="modelado_body439x210.jpg" crc="3983228348" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="editorial_1417x296.jpg" crc="9651016" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="242864841" seo="true" mt="1638868469959" redirect="true"/>
+</manifest>
